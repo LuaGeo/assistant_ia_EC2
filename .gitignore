@@ -1,0 +1,30 @@
+# Fichiers de configuration sensibles
+.env
+.env.local
+.env.production
+
+# Environnements virtuels Python
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Dépendances
+node_modules/
+
+# Fichiers d'éditeur
+.vscode/
+.idea/
+*.swp
+*.swo
